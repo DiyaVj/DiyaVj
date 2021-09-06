@@ -11,6 +11,6 @@ My name is Diya Vijay and I am from India. I am a technical student at Rajasthan
 * Contributor in GirlScript Winter of Contributing
 
 ## Keep in Touch 🤝🏻
-[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][https://www.linkedin.com/in/diya-vijay-3a8440204/]
+[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)](https://www.linkedin.com/in/diya-vijay-3a8440204/)
 
 [![Diya's github stats](https://github-readme-stats.vercel.app/api?username=DiyaVj)](https://github.com/DiyaVj/github-readme-stats)
