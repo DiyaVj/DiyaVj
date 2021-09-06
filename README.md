@@ -1,5 +1,5 @@
 ### Hi there 👋🏻, I'm Diya Vijay.
-
+ ![Design and Development](https://github.com/DiyaVj/DiyaVj/blob/main/Banner.gif)
 # Diya Vijay
 I'm Diya Vijay from India and I am a technical student at Rajasthan Technical University, Kota. I really enjoy learning and exploring new things. I also enjoy graphic designing, UI/UX, and game development. 
 ## Skills 
