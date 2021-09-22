@@ -28,3 +28,5 @@ Here is my [Linkedin.](https://www.linkedin.com/in/diya-vijay-3a8440204/)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiyaVj)](https://git.io/streak-stats)
 
 [![Diya's github stats](https://github-readme-stats.vercel.app/api?username=DiyaVj)](https://github.com/DiyaVj/github-readme-stats)
+
+![Visitor Count](https://profile-counter.glitch.me/{DiyaVj}/count.svg)
