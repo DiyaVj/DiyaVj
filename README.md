@@ -16,6 +16,7 @@ My name is Diya Vijay and I am from India. I am a technical student at Rajasthan
 ## Experience
 * Google Developer Student Clubs-RTU ---Design Lead
 * Contributor in GirlScript Winter of Contributing
+* Microsoft Learn Student Ambassador
 
 ## Keep in Touch 🤝🏻
 
