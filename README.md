@@ -17,18 +17,15 @@ I'm Diya Vijay, and I am a self-taught UI/UX designer. I adore learning and disc
 
 ## Experience
 
-* Google Developer Student Clubs-RTU ---Design Lead
+* Google Developer Student Clubs-RTU *Design Lead*
 * Contributor in GirlScript Winter of Contributing
-* Microsoft Learn Student Ambassador
+* Microsoft Learn Student Ambassador (Alpha)
+
+
+[![Diya's github stats](https://github-readme-stats.vercel.app/api?username=DiyaVj)](https://github.com/DiyaVj/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiyaVj)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## Keep in Touch 🤝🏻
-
---> Here is my [Linkedin.](https://www.linkedin.com/in/diya-vijay-3a8440204/)
-
-<h1 align="center">
-
-
-[![Diya's github stats](https://github-readme-stats.vercel.app/api?username=DiyaVj)](https://github.com/DiyaVj/github-readme-stats)
+[![linkedin](https://user-images.githubusercontent.com/87236107/150997674-ea924b0e-ac74-417a-8f49-787b1cf85d26.svg)](https://www.linkedin.com/in/diya-vijay-3a8440204/)
   
  </h1>
  
