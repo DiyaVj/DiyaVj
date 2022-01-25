@@ -24,6 +24,7 @@ I'm Diya Vijay, and I am a self-taught UI/UX designer. I adore learning and disc
 
 [![Diya's github stats](https://github-readme-stats.vercel.app/api?username=DiyaVj)](https://github.com/DiyaVj/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiyaVj)](https://github.com/anuraghazra/github-readme-stats) 
 
+
 ## Keep in Touch 🤝🏻
 [![linkedin](https://user-images.githubusercontent.com/87236107/150997674-ea924b0e-ac74-417a-8f49-787b1cf85d26.svg)](https://www.linkedin.com/in/diya-vijay-3a8440204/) [![email](https://user-images.githubusercontent.com/87236107/151024466-da427d59-3344-420e-8cce-c3c08c16a236.svg)](mailto:diyavijay2371@gmail.com)
  </h1>
