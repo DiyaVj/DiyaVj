@@ -26,9 +26,9 @@ I'm Diya Vijay, and I am a self-taught UI/UX designer. I adore learning and disc
 
 
 ## Keep in Touch 🤝🏻
-[![linkedin](https://user-images.githubusercontent.com/87236107/150997674-ea924b0e-ac74-417a-8f49-787b1cf85d26.svg)](https://www.linkedin.com/in/diya-vijay-3a8440204/) [![email](https://user-images.githubusercontent.com/87236107/151024466-da427d59-3344-420e-8cce-c3c08c16a236.svg)](mailto:diyavijay2371@gmail.com)
- </h1>
  
+[<img width="50" alt="LinkedIn" src="https://user-images.githubusercontent.com/87236107/152986425-5a1a09d6-53bc-4221-8f93-afc2bb0ba8cb.png">](https://www.linkedin.com/in/diya-vijay-3a8440204/) [<img width="50" alt="Mail" src="https://user-images.githubusercontent.com/87236107/152987170-30440cb9-32f5-4404-8616-684c401277f3.png">](mailto:diyavijay2371@gmail.com)
+
 <hr>
 
 <h1 align="center">
