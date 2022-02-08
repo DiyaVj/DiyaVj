@@ -22,7 +22,7 @@ I'm Diya Vijay, and I am a self-taught UI/UX designer. I adore learning and disc
 * Microsoft Learn Student Ambassador (Alpha)
 
 
-[![Diya's github stats](https://github-readme-stats.vercel.app/api?username=DiyaVj)](https://github.com/DiyaVj/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiyaVj)](https://github.com/anuraghazra/github-readme-stats) 
+[![Diya's github stats](https://github-readme-stats.vercel.app/api?username=DiyaVj)](https://github.com/DiyaVj/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiyaVj)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 ## Keep in Touch 🤝🏻
