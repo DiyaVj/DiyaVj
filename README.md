@@ -3,9 +3,9 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev.diyavj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.diyavj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/diya vijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diya vijay" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19182621/diya-vijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19182621/diya-vijay" height="30" width="40" /></a>
+<a href="https://dev.to/diyavj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.diyavj" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/diya-vijay-3a8440204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diya vijay" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19182621/diya-vijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19182621/diya-vijay" height="30" width="40" /></a>
 <a href="https://www.behance.net/diyavijay1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="diyavijay1" height="30" width="40" /></a>
 <a href="https://medium.com/@diyavijay2371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@diyavijay2371" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/diyavijay2371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="diyavijay2371" height="30" width="40" /></a>
