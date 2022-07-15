@@ -19,10 +19,11 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=DiyaVj&show_icons=true&theme=dark&locale=en" alt="SauravMukherjee" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiyaVj&show_icons=true&theme=dark&locale=en&layout=compact" alt="SauravMukherjee" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiyaVj&show_icons=true&line_height=10&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="" /></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=DiyaVj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt=""></td>
   </tr>
 </table>
+
 
 <h1 align="center">
 
@@ -32,5 +33,5 @@
 </p>
 
 ### ⚡ Recent GitHub Activity
-<a href="https://github.com/bhartik021"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DiyaVj&custom_title=%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/DiyaVj"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DiyaVj&custom_title=%20Contribution%20Graph&theme=react-dark" /></a>
 
