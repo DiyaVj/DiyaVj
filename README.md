@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi! I'm Diya
+# Hi! I'm Diya <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">
 </div>
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=2234AE&size=25&center=true&vCenter=true&width=450&height=30&lines=Welcome+to+my+profile...;Glad+to+see+you+here!"/>
 </div>
