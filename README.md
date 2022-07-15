@@ -1,10 +1,17 @@
-### Diya Vijay
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile...;Glad+to+see+you+here!)](https://git.io/typing-svg)
-<hr>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linktr.ee/Diyavj" target="blank"><img align="center" src="https://img.icons8.com/color/240/undefined/linktree.png" alt="linktree" height="40" width="40" /></a>
+<div align="center">
+
+# Hi! I'm Diya
+</div>
+<div align="center">
+     <img src="https://readme-typing-svg.herokuapp.com?color=%9068be&size=32&center=true&vCenter=true&width=500&height=30&lines=Welcome+to+my+profile...;Glad+to+see+you+here!"/>
+    
+</div>
+<a target="blank"><img align="right" src="https://camo.githubusercontent.com/1dfebc2e9839ae2ab59cea3d5a3cd01eb2aef1728222a394ea756daf5eaad2c6/68747470733a2f2f632e74656e6f722e636f6d2f534f564d53586d5742316b41414141692f746f6e792d737461722d6a756d70696e672e676966" height="60" width="60" />
+</a>
+<p align="center">  
+ <img src="https://komarev.com/ghpvc/?username=DiyaVj&color=blue" alt="DiyaVj" />
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -15,11 +22,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diyavj&show_icons=true&locale=en&layout=compact" alt="diyavj" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diyavj&show_icons=true&locale=en" alt="diyavj" /></p> 
-<!--
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diyavj&" alt="diyavj" /></p>
--->
+
 <h1 align="center">
-  
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linktr.ee/Diyavj" target="blank"><img align="center" src="https://img.icons8.com/color/240/undefined/linktree.png" alt="linktree" height="40" width="40" /></a>
+</p>
+
 ![Visitor Count](https://profile-counter.glitch.me/{DiyaVj}/count.svg)
-  
 </h1>
