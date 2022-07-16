@@ -5,11 +5,22 @@
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=2234AE&size=25&center=true&vCenter=true&width=450&height=30&lines=Welcome+to+my+profile...;Glad+to+see+you+here!"/>
 </div>
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=DiyaVj&color=blue" alt="DiyaVj" /></div>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=DiyaVj&color=blue" alt="DiyaVj" />
+</div>
 
 <div  align="center" >
 <a href="https://github.com/DiyaVj"><img src="https://img.shields.io/github/followers/PluckyPrecious.svg?label=GitHub&style=social" alt="GitHub"></a>
 </div>
+
+<div align="center">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
+</div>
+
+<p>
+
+</p>
 
 <details>
  <summary> 
@@ -185,3 +196,17 @@
   <a target="blank"><img align="right" src="https://user-images.githubusercontent.com/87236107/179354200-f5c0bcf4-1b26-432f-b0f2-b54f7fa6b89d.gif" height="25" width="25" /> Recent GitHub Activity</h3></summary>
 <a href="https://github.com/DiyaVj"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DiyaVj&custom_title=%20Contribution%20Graph&theme=react-dark&line=2234AE&color=D3D3D3" /></a>
 </details>
+
+<div align="left">
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">
+</div>
+        
+<div align="center">
+<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+</div>
+
+<div align="right">
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
