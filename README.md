@@ -15,6 +15,99 @@
  <summary> 
  <h3><a target="blank"><img align="right" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" height="25" width="25" />Languages and Tools</h3></summary>
  
+ 
+<h3 align="center">Languages</h3>
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
+      alt="c"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img src="https://img.shields.io/badge/-C++-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white"
+      alt="cpp"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
+      alt="javascript"/> 
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+      alt="html5"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+      alt="css3"/>
+  </a>
+  <a href="https://python.org/">
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+      <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+      alt="bootstrap"/>
+  </a>
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <a href="https://nodejs.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
+      alt="nodejs"/> 
+  </a>
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
+      alt="mongodb"/> 
+  </a> 
+   <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+ 
+</p>
+
+<h3 align="center">Cloud & Hosting:</h3>
+<p align="center">
+  <a href="https://azure.microsoft.com/en-in/" target="_blank">
+    <img  src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/> 
+  </a>
+  <a href="https://heroku.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
+      alt="heroku"/> 
+  </a> 
+</p>
+
+<h3 align="center">Version Control & CI/CD</h3>
+<p align="center">
+  <a href="https://github.com/ELanza-48" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
+      alt="git"/>
+  </a>
+  <a href="https://gitlab.com/Elanza-48" target="_blank">
+    <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
+      alt="git"/>
+  </a>
+</p>
+
+<h3 align="center">Preferred IDEs  & Tools :</h3>
+<p align="center"> 
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
+  </a>
+  <a href="https://postman.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
+  </a>
+  <a href="#"><img alt="TFigma" src="https://img.shields.io/badge/Figma-430098?style=for-the-badge&logo=figma&logoColor=pink"></a>
+  <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+</p>
+ 
+ <!--
  <a target="blank"><img align="right" src="https://camo.githubusercontent.com/1dfebc2e9839ae2ab59cea3d5a3cd01eb2aef1728222a394ea756daf5eaad2c6/68747470733a2f2f632e74656e6f722e636f6d2f534f564d53586d5742316b41414141692f746f6e792d737461722d6a756d70696e672e676966" height="100" width="100" />
   <ol>
   <p align="left"> 
@@ -39,6 +132,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+-->
 
 </details>
  
@@ -65,8 +159,7 @@
 
 <details>
  <summary><h3>
- <a target="blank"><img align="right" src="https://user-images.githubusercontent.com/87236107/179353709-ecbd8d25-0141-45ff-8585-5851a2e93cb8.gif" height="25" width="25" />
- Github Stats</h3></summary>
+ <a target="blank"><img align="right" src="https://user-images.githubusercontent.com/87236107/179353709-ecbd8d25-0141-45ff-8585-5851a2e93cb8.gif" height="25" width="25" />Github Stats</h3></summary>
  
 <table>
   <tr>
@@ -80,6 +173,8 @@
 
 <details>
  <summary><h3><a target="blank"><img align="right" src="https://user-images.githubusercontent.com/87236107/179354164-1af903c2-bdc2-479c-ae61-796980ccc80e.gif" height="25" width="25" /> Connect with me</h3></summary>
+ <a target="blank"><img align="right" src="https://camo.githubusercontent.com/1dfebc2e9839ae2ab59cea3d5a3cd01eb2aef1728222a394ea756daf5eaad2c6/68747470733a2f2f632e74656e6f722e636f6d2f534f564d53586d5742316b41414141692f746f6e792d737461722d6a756d70696e672e676966" height="100" width="100" />
+</a>
 <p align="left">
 <a href="https://linktr.ee/Diyavj" target="blank"><img align="center" src="https://img.icons8.com/color/240/undefined/linktree.png" alt="linktree" height="40" width="40" /></a>
 </p>
