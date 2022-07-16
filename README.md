@@ -25,7 +25,7 @@
   
  </p>
 <hr>
-<h2>📊Github Stats</h2>
+<h2>📊 Github Stats</h2>
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiyaVj&show_icons=true&line_height=10&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="" /></td>
