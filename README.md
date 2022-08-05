@@ -6,10 +6,6 @@
 </div>
 
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=DiyaVj&color=blue" alt="DiyaVj" />
-</div>
-
 <div  align="center" >
 <a href="https://github.com/DiyaVj"><img src="https://img.shields.io/github/followers/PluckyPrecious.svg?label=GitHub&style=social" alt="GitHub"></a>
 </div>
