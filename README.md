@@ -14,10 +14,15 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
 </div>
 
-<p>
-
-</p>
-
+<details>
+<summary>
+ <h3><a target="blank"><img align="right" src="https://media0.giphy.com/media/jtuOf0aupRzC6Odqtp/giphy.gif?cid=ecf05e47cdogpsnracr8e08l1yys6sxql2kkhn3ut4pceywd&rid=giphy.gif&ct=s" height="25" width="25" />About me</h3>
+</summary>
+ <p>An individual with ambition, motivation, and focus. I'm fascinated by the pace at which technology is evolving every day. UI/UX designing has hooked me. I'm enthusiastically grabbing onto various programming languages, frameworks, concepts, and principles. I can integrate it into coding in my reading. I am an open-source contributor. I love exploring different domains and trying out a bunch of different things. I also like content writing. 
+Microsoft offered me a direct SWE internship through Microsoft Engage'22 for my consistence performance in the program. I'm a Beta Microsoft Learn Student Ambassador. In addition, I am the State President of the Women's Indian Chamber of Commerce & Industry's Information Technology Council (WICCI). Also, I established GeeksforGeeks Student Chapter - RTU. 
+I've always been interested in building strong networks and creating a positive environment. </p>
+</details>
+ 
 <details>
  <summary> 
  <h3><a target="blank"><img align="right" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" height="25" width="25" />Languages and Tools</h3></summary>
@@ -200,11 +205,11 @@
 
 </details>
 
-<details>
+<!-- <details>
  <summary><h3> 
   <a target="blank"><img align="right" src="https://user-images.githubusercontent.com/87236107/179354200-f5c0bcf4-1b26-432f-b0f2-b54f7fa6b89d.gif" height="25" width="25" /> Recent GitHub Activity</h3></summary>
 <a href="https://github.com/DiyaVj"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DiyaVj&custom_title=%20Contribution%20Graph&theme=react-dark&line=2234AE&color=D3D3D3" /></a>
-</details>
+</details> -->
 
 <div align="left">
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">
