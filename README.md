@@ -180,7 +180,7 @@ I've always been interested in building strong networks and creating a positive 
 
 <details>
  <summary><h3>
- <a target="blank"><img align="right" src="https://user-images.githubusercontent.com/87236107/179353709-ecbd8d25-0141-45ff-8585-5851a2e93cb8.gif" height="25" width="25" />Github Stats</h3></summary>
+ <a target="blank"><img align="right" src="https://media0.giphy.com/media/RVWSqOsgDAq0W3051o/giphy_s.gif?cid=ecf05e47oxxhzj0hc61ddll5rcfca66yv1dl18io0l31pmss&rid=giphy_s.gif&ct=s" height="50" width="50" />Github Stats</h3></summary>
  
 <table>
   <tr>
@@ -193,7 +193,7 @@ I've always been interested in building strong networks and creating a positive 
 
 
 <details>
- <summary><h3><a target="blank"><img align="right" src="https://user-images.githubusercontent.com/87236107/179354164-1af903c2-bdc2-479c-ae61-796980ccc80e.gif" height="25" width="25" /> Connect with me</h3></summary>
+ <summary><h3><a target="blank"><img align="right" src="https://media1.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif?cid=ecf05e47e7dvfufx9t47q5pf2065hf6mr8dmr8y2yrq8o3su&rid=giphy.gif&ct=s" height="40" width="40" /> Connect with me </h3></summary>
  
  <a target="blank"><img align="right" src="https://camo.githubusercontent.com/1dfebc2e9839ae2ab59cea3d5a3cd01eb2aef1728222a394ea756daf5eaad2c6/68747470733a2f2f632e74656e6f722e636f6d2f534f564d53586d5742316b41414141692f746f6e792d737461722d6a756d70696e672e676966" height="100" width="100" />
 
