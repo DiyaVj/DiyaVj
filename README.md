@@ -27,13 +27,13 @@ I've always been interested in building strong networks and creating a positive 
  <summary> 
  <h3><a target="blank"><img align="right" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" height="25" width="25" />Languages and Tools</h3></summary>
  
- 
+<!--  
 <p align="center">
 
 <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif">
 
 
-</p>
+</p> -->
  
 <h3 align="center">Languages</h3>
 
@@ -63,24 +63,24 @@ I've always been interested in building strong networks and creating a positive 
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
 </p>
-
+<!-- 
 <h3 align="center">Frontend</h3>
 <p align="center">
       <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
       alt="bootstrap"/>
   </a>
-</p>
-
+</p> -->
+<!-- 
 <h3 align="center">Backend</h3>
 <p align="center">
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/> 
   </a>
-</p>
+</p> -->
 
-<h3 align="center">Database</h3>
+<!-- <h3 align="center">Database</h3>
 <p align="center">
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
@@ -88,9 +88,9 @@ I've always been interested in building strong networks and creating a positive 
   </a> 
    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
  
-</p>
+</p> -->
 
-<h3 align="center">Cloud & Hosting:</h3>
+<!-- <h3 align="center">Cloud & Hosting:</h3>
 <p align="center">
   <a href="https://azure.microsoft.com/en-in/" target="_blank">
     <img  src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/> 
@@ -99,7 +99,7 @@ I've always been interested in building strong networks and creating a positive 
     <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
       alt="heroku"/> 
   </a> 
-</p>
+</p> -->
 
 <h3 align="center">Version Control & CI/CD</h3>
 <p align="center">
@@ -110,10 +110,10 @@ I've always been interested in building strong networks and creating a positive 
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
   </a>
-  <a href="https://gitlab.com/Elanza-48" target="_blank">
+<!--   <a href="https://gitlab.com/Elanza-48" target="_blank">
     <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
       alt="git"/>
-  </a>
+  </a> -->
 </p>
 
 <h3 align="center">Preferred IDEs  & Tools :</h3>
@@ -177,7 +177,7 @@ I've always been interested in building strong networks and creating a positive 
  </p>
 --->
 
-
+<!-- 
 <details>
  <summary><h3>
  <a target="blank"><img align="right" src="https://media0.giphy.com/media/RVWSqOsgDAq0W3051o/giphy_s.gif?cid=ecf05e47oxxhzj0hc61ddll5rcfca66yv1dl18io0l31pmss&rid=giphy_s.gif&ct=s" height="50" width="50" />Github Stats</h3></summary>
@@ -189,7 +189,7 @@ I've always been interested in building strong networks and creating a positive 
   </tr>
 </table>
 
-</details>
+</details> -->
 
 
 <details>
