@@ -199,18 +199,22 @@ I've always been interested in building strong networks and creating a positive 
 
 </a>
 <p align="left">
-<a href="https://linktr.ee/Diyavj" target="blank"><img align="center" src="https://img.icons8.com/color/240/undefined/linktree.png" alt="linktree" height="40" width="40" /></a>
+<a href="https://linktr.ee/Diyavj" target="blank"><img align="center" src="https://img.icons8.com/color/240/undefined/linktree.png" alt="linktree" height="40" width="40" /></a> 
+ 
 </p>
 
 
 </details>
 
-<!-- <details>
+ <details>
  <summary><h3> 
   <a target="blank"><img align="right" src="https://user-images.githubusercontent.com/87236107/179354200-f5c0bcf4-1b26-432f-b0f2-b54f7fa6b89d.gif" height="25" width="25" /> Recent GitHub Activity</h3></summary>
-<a href="https://github.com/DiyaVj"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DiyaVj&custom_title=%20Contribution%20Graph&theme=react-dark&line=2234AE&color=D3D3D3" /></a>
-</details> -->
+  
+ [![Diya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DiyaVj&theme=react-dark&line=2234AE&color=D3D3D3)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+</details> 
 
+  
 <div align="left">
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">
 </div>
