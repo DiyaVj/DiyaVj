@@ -18,9 +18,13 @@
 <summary>
  <h3><a target="blank"><img align="right" src="https://media0.giphy.com/media/jtuOf0aupRzC6Odqtp/giphy.gif?cid=ecf05e47cdogpsnracr8e08l1yys6sxql2kkhn3ut4pceywd&rid=giphy.gif&ct=s" height="25" width="25" />About me</h3>
 </summary>
- <p>An individual with ambition, motivation, and focus. I'm fascinated by the pace at which technology is evolving every day. UI/UX designing has hooked me. I'm enthusiastically grabbing onto various programming languages, frameworks, concepts, and principles. I can integrate it into coding in my reading. I am an open-source contributor. I love exploring different domains and trying out a bunch of different things. I also like content writing. 
-Microsoft offered me a direct SWE internship through Microsoft Engage'22 for my consistence performance in the program. I'm a Beta Microsoft Learn Student Ambassador. In addition, I am the State President of the Women's Indian Chamber of Commerce & Industry's Information Technology Council (WICCI). Also, I established GeeksforGeeks Student Chapter - RTU. 
-I've always been interested in building strong networks and creating a positive environment. </p>
+ <p>An individual with ambition, motivation, and focus who is passionate about creating innovative solutions and learning new technologies. I enjoy working on challenging projects that require problem-solving skills and creativity. I’m always eager to learn from others and collaborate with diverse teams.
+I have a passion for building scalable software solutions that make a difference in people's lives. UI/UX designing has hooked me. I'm enthusiastically grabbing onto various programming languages, frameworks, concepts, and principles. I am an open-source enthusiast. I love exploring different domains and trying out a bunch of different things. 
+
+I'm a Gold Microsoft Learn Student Ambassador. In addition, I am the Rajasthan State President of the Women's Indian Chamber of Commerce & Industry's Information Technology Council (WICCI). Also, I am the founder and a vice-chairperson at GeeksforGeeks Student Chapter - RTU. 
+Selected under top 50 teams in India at Samsung Solve For Tomorrow.
+
+I've always been interested in building strong networks and creating a positive environment.</p>
 </details>
  
 <details>
