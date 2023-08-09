@@ -21,8 +21,8 @@
  <p>An individual with ambition, motivation, and focus who is passionate about creating innovative solutions and learning new technologies. I enjoy working on challenging projects that require problem-solving skills and creativity. I’m always eager to learn from others and collaborate with diverse teams.
 I have a passion for building scalable software solutions that make a difference in people's lives. UI/UX designing has hooked me. I'm enthusiastically grabbing onto various programming languages, frameworks, concepts, and principles. I am an open-source enthusiast. I love exploring different domains and trying out a bunch of different things. 
 
-I'm a Gold Microsoft Learn Student Ambassador. In addition, I am the Rajasthan State President of the Women's Indian Chamber of Commerce & Industry's Information Technology Council (WICCI). Also, I am the founder and a vice-chairperson at GeeksforGeeks Student Chapter - RTU. 
-Selected under top 50 teams in India at Samsung Solve For Tomorrow.
+I'm a <b>Gold Microsoft Learn Student Ambassador</b>. In addition, I am <b>the Rajasthan State President of the Women's Indian Chamber of Commerce & Industry's Information Technology Council (WICCI)</b>. Also, I am the founder and a vice-chairperson at GeeksforGeeks Student Chapter - RTU. 
+Selected under <b>top 50 teams in India at Samsung Solve For Tomorrow</b>.
 
 I've always been interested in building strong networks and creating a positive environment.</p>
 
