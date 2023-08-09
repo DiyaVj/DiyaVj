@@ -25,6 +25,13 @@ I'm a Gold Microsoft Learn Student Ambassador. In addition, I am the Rajasthan S
 Selected under top 50 teams in India at Samsung Solve For Tomorrow.
 
 I've always been interested in building strong networks and creating a positive environment.</p>
+
+<div align="center">
+ 
+![LevelGold160x143](https://github.com/DiyaVj/DiyaVj/assets/87236107/d5a7861b-db6a-4955-8349-f3c2bd512629)
+ 
+</div>
+
 </details>
  
 <details>
