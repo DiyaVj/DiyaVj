@@ -38,14 +38,6 @@ I've always been interested in building strong networks and creating a positive 
  <summary> 
  <h3><a target="blank"><img align="right" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" height="25" width="25" />Languages and Tools</h3></summary>
  
-<!--  
-<p align="center">
-
-<img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif">
-
-
-</p> -->
- 
 <h3 align="center">Languages</h3>
 
 <p align="center">
@@ -101,16 +93,12 @@ I've always been interested in building strong networks and creating a positive 
  
 </p> -->
 
-<!-- <h3 align="center">Cloud & Hosting:</h3>
+<h3 align="center">Cloud & Hosting:</h3>
 <p align="center">
   <a href="https://azure.microsoft.com/en-in/" target="_blank">
     <img  src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/> 
   </a>
-  <a href="https://heroku.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
-      alt="heroku"/> 
-  </a> 
-</p> -->
+</p>
 
 <h3 align="center">Version Control & CI/CD</h3>
 <p align="center">
@@ -121,10 +109,6 @@ I've always been interested in building strong networks and creating a positive 
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
   </a>
-<!--   <a href="https://gitlab.com/Elanza-48" target="_blank">
-    <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
-      alt="git"/>
-  </a> -->
 </p>
 
 <h3 align="center">Preferred IDEs  & Tools :</h3>
@@ -167,28 +151,8 @@ I've always been interested in building strong networks and creating a positive 
 -->
 
 </details>
- 
- <!---
-<h3 align="left">💻 Languages and Tools</h3> 
-<a target="blank"><img align="right" src="https://camo.githubusercontent.com/1dfebc2e9839ae2ab59cea3d5a3cd01eb2aef1728222a394ea756daf5eaad2c6/68747470733a2f2f632e74656e6f722e636f6d2f534f564d53586d5742316b41414141692f746f6e792d737461722d6a756d70696e672e676966" height="100" width="100" />
-</a>
 
-<p align="left"> 
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  
- </p>
---->
 
-<!-- 
 <details>
  <summary><h3>
  <a target="blank"><img align="right" src="https://media0.giphy.com/media/RVWSqOsgDAq0W3051o/giphy_s.gif?cid=ecf05e47oxxhzj0hc61ddll5rcfca66yv1dl18io0l31pmss&rid=giphy_s.gif&ct=s" height="50" width="50" />Github Stats</h3></summary>
@@ -200,7 +164,7 @@ I've always been interested in building strong networks and creating a positive 
   </tr>
 </table>
 
-</details> -->
+</details> 
 
 
 <details>
