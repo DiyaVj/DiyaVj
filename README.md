@@ -210,10 +210,22 @@ I've always been interested in building strong networks and creating a positive 
 
 </a>
 <p align="left">
-<a href="https://linktr.ee/Diyavj" target="blank"><img align="center" src="https://img.icons8.com/color/240/undefined/linktree.png" alt="linktree" height="40" width="40" /></a> 
- 
+<a href="https://linktr.ee/Diyavj">
+        <img src="https://img.shields.io/twitter/follow/DiyaVj?style=social&logo=linktree"
+            alt="follow on Linktree"></a>
+<a href="https://twitter.com/DiyaVijay6">
+        <img src="https://img.shields.io/twitter/follow/DiyaVijay6?style=social&logo=twitter"
+            alt="follow on Twitter"></a>
+ <a href="www.linkedin.com/in/diya-vijay">
+        <img src="https://img.shields.io/twitter/follow/Diya-Vijay?style=social&logo=linkedin"
+            alt="follow on LinkedIn"></a>
+ <a href="www.linkedin.com/in/diya-vijay">
+        <img src="https://img.shields.io/twitter/follow/diyavijay?style=social&logo=medium"
+            alt="follow on Medium"></a>
+ <a href="www.linkedin.com/in/diya-vijay">
+        <img src="https://img.shields.io/twitter/follow/diyavj?style=social&logo=behance"
+            alt="follow on Behnace"></a>
 </p>
-
 
 </details>
 
@@ -224,7 +236,6 @@ I've always been interested in building strong networks and creating a positive 
  [![Diya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DiyaVj&theme=react-dark&line=2234AE&color=D3D3D3)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </details> 
-
   
 <div align="left">
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">
