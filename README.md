@@ -157,13 +157,8 @@ I've always been interested in building strong networks and creating a positive 
  <summary><h3>
  <a target="blank"><img align="right" src="https://media0.giphy.com/media/RVWSqOsgDAq0W3051o/giphy_s.gif?cid=ecf05e47oxxhzj0hc61ddll5rcfca66yv1dl18io0l31pmss&rid=giphy_s.gif&ct=s" height="50" width="50" />Github Stats</h3></summary>
  
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiyaVj&show_icons=true&line_height=10&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="" /></td>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=DiyaVj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt=""></td>
-  </tr>
-</table>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiyaVj&show_icons=true&line_height=10&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="" /></td>
+    
 </details> 
 
 
@@ -193,13 +188,9 @@ I've always been interested in building strong networks and creating a positive 
 
 </details>
 
- <details>
- <summary><h3> 
-  <a target="blank"><img align="right" src="https://user-images.githubusercontent.com/87236107/179354200-f5c0bcf4-1b26-432f-b0f2-b54f7fa6b89d.gif" height="25" width="25" /> Recent GitHub Activity</h3></summary>
   
  [![Diya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DiyaVj&theme=react-dark&line=2234AE&color=D3D3D3)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
-</details> 
   
 <div align="left">
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">
