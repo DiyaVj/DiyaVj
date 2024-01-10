@@ -2,7 +2,7 @@
 
 # Hi! I'm Diya <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">
 </div>
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=2234AE&size=25&center=true&vCenter=true&width=450&height=30&lines=Welcome+to+my+profile...;Glad+to+see+you+here!"/>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=ff69b4&size=25&center=true&vCenter=true&width=450&height=30&lines=Welcome+to+my+profile...;Glad+to+see+you+here!"/>
 </div>
 
 
@@ -18,7 +18,7 @@
 <summary>
  <h3><a target="blank"><img align="right" src="https://media0.giphy.com/media/jtuOf0aupRzC6Odqtp/giphy.gif?cid=ecf05e47cdogpsnracr8e08l1yys6sxql2kkhn3ut4pceywd&rid=giphy.gif&ct=s" height="25" width="25" />About me</h3>
 </summary>
- <p>An individual with ambition, motivation, and focus who is passionate about creating innovative solutions and learning new technologies. I enjoy working on challenging projects that require problem-solving skills and creativity. I’m always eager to learn from others and collaborate with diverse teams.
+<p>An individual with ambition, motivation, and focus who is passionate about creating innovative solutions and learning new technologies. I enjoy working on challenging projects that require problem-solving skills and creativity. I’m always eager to learn from others and collaborate with diverse teams.
 I have a passion for building scalable software solutions that make a difference in people's lives. UI/UX designing has hooked me. I'm enthusiastically grabbing onto various programming languages, frameworks, concepts, and principles. I am an open-source enthusiast. I love exploring different domains and trying out a bunch of different things. 
 
 I'm a <b>Gold Microsoft Learn Student Ambassador</b>. In addition, I am <b>the Rajasthan State President of the Women's Indian Chamber of Commerce & Industry's Information Technology Council (WICCI)</b>. Also, I am the founder and a vice-chairperson at GeeksforGeeks Student Chapter - RTU. 
@@ -157,7 +157,7 @@ I've always been interested in building strong networks and creating a positive 
  <summary><h3>
  <a target="blank"><img align="right" src="https://media0.giphy.com/media/RVWSqOsgDAq0W3051o/giphy_s.gif?cid=ecf05e47oxxhzj0hc61ddll5rcfca66yv1dl18io0l31pmss&rid=giphy_s.gif&ct=s" height="50" width="50" />Github Stats</h3></summary>
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiyaVj&show_icons=true&line_height=10&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="" /></td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiyaVj&show_icons=true&line_height=10&title_color=ff69b4&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="" /></td>
     
 </details> 
 
@@ -186,7 +186,7 @@ I've always been interested in building strong networks and creating a positive 
 </details>
 
   
- [![Diya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DiyaVj&theme=react-dark&line=2234AE&color=D3D3D3)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Diya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DiyaVj&theme=react-dark&line=ff69b4&color=D3D3D3)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   
 <div align="left">
