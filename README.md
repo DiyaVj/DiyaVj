@@ -36,7 +36,7 @@ I've always been interested in building strong networks and creating a positive 
  
 <details>
  <summary> 
- <h3><a target="blank">Languages and Tools</h3></summary>
+ <h3><a target="blank"><img align="right" src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" height="25" width="25" />Languages and Tools</h3></summary>
  
 <h3 align="center">Languages</h3>
 
@@ -161,12 +161,9 @@ I've always been interested in building strong networks and creating a positive 
     
 </details> 
 
-
 <details>
  <summary><h3><a target="blank"><img align="right" src="https://media1.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif?cid=ecf05e47e7dvfufx9t47q5pf2065hf6mr8dmr8y2yrq8o3su&rid=giphy.gif&ct=s" height="40" width="40" /> Connect with me </h3></summary>
  
- <a target="blank"><img align="right" src="https://camo.githubusercontent.com/1dfebc2e9839ae2ab59cea3d5a3cd01eb2aef1728222a394ea756daf5eaad2c6/68747470733a2f2f632e74656e6f722e636f6d2f534f564d53586d5742316b41414141692f746f6e792d737461722d6a756d70696e672e676966" height="100" width="100" />
-
 </a>
 <p align="left">
 <a href="https://linktr.ee/Diyavj">
