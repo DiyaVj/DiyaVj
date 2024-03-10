@@ -24,7 +24,7 @@
 
 #### 🚀 Gold Microsoft Learn Student Ambassador
 
-<p>Being a Gold MLSA, I serve as a Gold Lead for Microsoft AI Ambassador Projects, I organized events that brought together industry leaders, showcasing innovative solutions to real-world problems. Proudly leading initiatives for Women and Gender Minorities in Tech as a Microsoft Student Ambassador. 🚀
+<p>Being a Gold MLSA, I serve as a Gold Lead for Microsoft AI Ambassador Projects, I organized events that brought together industry leaders, showcasing innovative solutions to real-world problems. Proudly leading initiatives for Women and Gender Minorities in Tech as a Microsoft Student Ambassador.
 </p>
 
 - **Women and Gender Minorities in Tech Lead**
