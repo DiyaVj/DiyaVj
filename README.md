@@ -61,7 +61,7 @@ Our team, Alpha Squad, was among the top 50 teams, receiving mentoring, a boot c
 | PregEdu              | [PregEdu Repo](https://github.com/DiyaVj/PregEdu) | Addresses the lack of accessible pregnancy education by providing a platform with expert resources and a community for support.       |
 | Solar System WebVR   | [Solar System WebVR Repo](https://github.com/DiyaVj/Solar-System-WebVR)          | A web-based virtual reality solar system experience built with AFrame (A web framework for building 3D/AR/VR experiences)                  |
 | Cinemilar            | [Cinemilar Repo](https://github.com/DiyaVj/Cinemilar)              | A web-based movie recommendation application using content-based filtering. Implemented the frontend using Streamlit and used the TMDB5000 movie dataset which provides the data about more than 5000 movies.                 |
-| Menses               | [Menses Tracker Repo](https://github.com/DiyaVj/Menses-Tracker)              | A web-based application that can be used as a tracker to help needy people locate donors for menstrual products. Developed for the Google Solution Challenge ’22, aligning with the United Nations’ 17 Sustainable Development Goals.                  |
+| Menses - Period Poverty Tracker           | [Menses Repo](https://github.com/DiyaVj/Menses-Period-Poverty-Tracker)              | A web-based application that can be used as a tracker to help needy people locate donors for menstrual products. Developed for the Google Solution Challenge ’22, aligning with the United Nations’ 17 Sustainable Development Goals.                  |
 
 
 <!-- Contact me -->
