@@ -13,28 +13,46 @@
 
 <!-- About Me -->
 <div align="center">
-  <h3> <a target="blank">  Who Am I? 🚀 </a> </h3>
+  <h2> <a target="blank">  Who Am I? 🚀 </a> </h2>
 </div>
 
 <div align="center">
   <p>Welcome to my little corner of the coding universe! I'm all about passion and creativity! Whether I'm working on projects or leading community initiatives, I'm always excited about making a positive impact! From making websites to designing user-friendly experiences, I'm on a mission to keep learning and trying out new tools. You could say I'm on a tech adventure! 🌐🛠️</p>
 </div>
 
-<!--
- ## My Communities 💬
+## My Communities 🌐
 
-- **Tech Catalyst:** Fostering inclusive communities to empower women in technology and nurturing the next generation of tech leaders through innovative student initiatives! 💪📚
+#### 🚀 Gold Microsoft Learn Student Ambassador
 
-## Journey Highlights 🏆
+<p>Being a Gold MLSA, I serve as a Gold Lead for Microsoft AI Ambassador Projects, I organized events that brought together industry leaders, showcasing innovative solutions to real-world problems. Proudly leading initiatives for Women and Gender Minorities in Tech as a Microsoft Student Ambassador. 🚀
+</p>
 
-- **Golden Ambition:** As a Gold Microsoft Learn Student Ambassador, I've been honored to represent the tech community and embark on extraordinary learning journeys! 🎓
-  
-- **Innovation Maestro:** Recognized as a Top 50 Team in India - Samsung Solve For Tomorrow, where creativity and technology converge to solve real-world challenges! 🌍
--->
+- **Women and Gender Minorities in Tech Lead**
+- **Part of Microsoft NDA program**
+- **Gold Lead for the AI Ambassador Projects**
+
+#### 🚀 Mentor at GirlScript Summer of Code
+
+Guiding students into the world of open source, I've been a mentor at GirlScript Summer of Code, providing resources and support for their contributions.
+
+## My Achievements 🏆
+
+#### 🌟 2nd Runner-Up at Shankara Global Hackathon 3.0 (Mar 2024)
+
+My team "Mano Shanti" secured the 2nd runner-up position, competing against 296 teams nationwide. Our project, EmoMind, is a web-based application empowering individuals on their mental health journey. 
+
+#### 🌟 Top 15 at Istart Ideathon, Kota (Aug 2023)
+
+Recognized at Istart Ideathon, an entrepreneurial event promoting startup ideas among students. 
+
+#### 🌟 Samsung Solve For Tomorrow - Top 50, India (Aug 2022)
+
+Our team, Alpha Squad, was among the top 50 teams, receiving mentoring, a boot camp at IIT Delhi, and ₹1 Lakh worth of vouchers for online courses. Our project aimed to demonstrate how STEM solutions can improve local communities. 
+
 
 <!-- Projects -->
 <div align="center">
-  <h3> <a target="blank"> Projects in the Spotlight 💡 </a> </h3>
+  <h2> <a target="blank"> Projects in the Spotlight 💡 </a> </h2>
  <p>Here are some of the cool projects I've been working on...</p>
 </div>
 
@@ -49,9 +67,9 @@
 <!-- Contact me -->
 
  <div align="center">
-  <h3> <a target="blank"> <img src="https://media1.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif?cid=ecf05e47e7dvfufx9t47q5pf2065hf6mr8dmr8y2yrq8o3su&rid=giphy.gif&ct=s" height="40" width="40" />
+  <h2> <a target="blank"> <img src="https://media1.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif?cid=ecf05e47e7dvfufx9t47q5pf2065hf6mr8dmr8y2yrq8o3su&rid=giphy.gif&ct=s" height="40" width="40" />
     Let's Connect! 🌐 </a>
-  </h3>
+  </h2>
   <p>Want to chat about tech, design, or anything cool? Hit me up on my socials</p>
  </div>
 
