@@ -8,7 +8,7 @@
  
 # Hello! I'm Diya <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">
 </div>
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=ff69b4&size=25&center=true&vCenter=true&width=500&height=30&lines=Welcome;I'm+happy+to+have+you+here!"/>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=ff69b4&size=30&center=true&vCenter=true&width=500&height=30&lines=I'm+a...;Software+Developer;UX/UI+Designer"/>
 </div>
 
 <!-- About Me -->
