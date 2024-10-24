@@ -31,11 +31,16 @@
 - **Part of Microsoft NDA program**
 - **Gold Lead for the AI Ambassador Projects**
 
+### 🚀 Postman Student Leader
+Advocating API literacy by hosting workshops and events, leveraging Postman resources to educate my community.
+
 #### 🚀 Mentor at GirlScript Summer of Code
 
 Guiding students into the world of open source, I've been a mentor at GirlScript Summer of Code, providing resources and support for their contributions.
 
 ## My Achievements 🏆
+
+### 🌟 LinkedIn Top UX & Problem-Solving Voice
 
 #### 🌟 2nd Runner-Up at Shankara Global Hackathon 3.0 (Mar 2024)
 
